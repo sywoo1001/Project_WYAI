@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/wyai_no/Scenes/Stage2.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
